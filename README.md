@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>Watch, record and log fish feeding across an aquaculture lease.</b></p>
+<p align="center"><b>Watch, record and log fish feeding across a lease from the pen cameras.</b></p>
 
 ## Download
 
