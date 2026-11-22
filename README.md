@@ -14,6 +14,7 @@
 - **[Data import utility](https://github.com/scielex-sdd/camera-feed-releases/releases/latest/download/ScielexCameraFeed-DataImport.exe)**:
   only if you are moving from the old Camera System app. Run it on the PC that ran the old app to bring its
   pens, groups and routines across.
+- **[User manual (PDF)](https://github.com/scielex-sdd/camera-feed-releases/releases/latest/download/CameraFeed-Manual.pdf)**
 
 If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
 
